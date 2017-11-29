@@ -1,0 +1,70 @@
+/* font-family: "PfEncoreUthin"; */
+@font-face {
+	font-family: "pfencoreuthin";
+	src: url(../fonts/pfencore/PFEncoreSansPro-UThin.otf);
+}
+/* font-family: "PfEncoreUthinitalick"; */
+@font-face {
+	font-family: "pfencoreuthin-italick";
+	src: url(../fonts/pfencore/PFEncoreSansPro-UThinItalic.otf);
+}
+/* font-family: "PfEncoreThin"; */
+@font-face {
+	font-family: "pfencorethin";
+	src: url(../fonts/pfencore/PFEncoreSansPro-Thin.otf);
+}
+/* font-family: "PfEncoreThinItalick"; */
+@font-face {
+	font-family: "pfencorethin-italick";
+	src: url(../fonts/pfencore/PFEncoreSansPro-ThinItalic.otf);
+}
+/* font-family: "PfEncoreLight"; */
+@font-face {
+	font-family: "pfencorelight";
+	src: url(../fonts/pfencore/PFEncoreSansPro-Light.otf);
+}
+/* font-family: "PfEncoreLightItalick"; */
+@font-face {
+	font-family: "pfencorelight-italick";
+	src: url(../fonts/pfencore/PFEncoreSansPro-LightItalic.otf);
+}
+/* font-family: "PfEncoreRegular"; */
+@font-face {
+	font-family: "pfencorereg";
+	src: url(../fonts/pfencore/PFEncoreSansPro-Reg.otf);
+}
+/* font-family: "PfEncoreRegular-i"; */
+@font-face {
+	font-family: "pfencorereg-i";
+	src: url(../fonts/pfencore/PFEncoreSansPro-RegItalic.otf);
+}
+/* font-family: "PfEncoreMedium"; */
+@font-face {
+	font-family: "pfencoremedium";
+	src: url(../fonts/pfencore/PFEncoreSansPro-Medium.otf);
+}
+/* font-family: "PfEncoreMediumItalick"; */
+@font-face {
+	font-family: "pfencoremedium-italick";
+	src: url(../fonts/pfencore/PFEncoreSansPro-MediumItalic.otf);
+}
+/* font-family: "PfEncoreBold"; */
+@font-face {
+	font-family: "pfencorebold";
+	src: url(../fonts/pfencore/PFEncoreSansPro-Bold.otf);
+}
+/* font-family: "PfEncoreBoldItalick"; */
+@font-face {
+	font-family: "pfencorebold-italick";
+	src: url(../fonts/pfencore/PFEncoreSansPro-BoldItalic.otf);
+}
+/* font-family: "PfEncoreBlack"; */
+@font-face {
+	font-family: "pfencoreblack";
+	src: url(../fonts/pfencore/PFEncoreSansPro-Black.otf);
+}
+/* font-family: "PfEncoreBlackItalick"; */
+@font-face {
+	font-family: "pfencoreblack-italick";
+	src: url(../fonts/pfencore/PFEncoreSansPro-BlackItalic.otf);
+}
